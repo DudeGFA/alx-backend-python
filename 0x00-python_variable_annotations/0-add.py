@@ -4,7 +4,7 @@
 """
 
 
-def add(a: int, b: int):
+def add(a: float, b: float) -> float:
     """
         Args
             a: int
