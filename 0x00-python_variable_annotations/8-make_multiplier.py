@@ -1,4 +1,4 @@
-#!/usr/bin/env pyth0n3
+#!/usr/bin/env python3
 """
     Contains function make_multiplier
 """
