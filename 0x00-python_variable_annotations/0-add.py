@@ -2,6 +2,8 @@
 """
     Contains function add
 """
+
+
 def add(a: int, b: int):
     """
         Args
