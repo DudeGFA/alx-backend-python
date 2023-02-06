@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
     Contains task task_wait_n
 """
